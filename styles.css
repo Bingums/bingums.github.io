@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: #0f172a;
+  color: white;
+}
+
+a {
+  color: #38bdf8;
+}
+
+.project {
+  border: 1px solid #334155;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
